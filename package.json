@@ -1,0 +1,22 @@
+{
+  "name": "pa11y-express-render",
+  "version": "0.0.3",
+  "description": "An express middleware to check the accessibility of your response with pa11y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git@github.com:dazwiafl/pa11y-express-render.git",
+  "keywords": [
+    "pa11y",
+    "express",
+    "render"
+  ],
+  "author": "Anton Kahr <anton.kahr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "pa11y": "^4.10.0",
+    "tmp": "0.0.31"
+  }
+}
