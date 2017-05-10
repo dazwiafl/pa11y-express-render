@@ -15,8 +15,8 @@ app.use(pa11ymw(options));
 
 ## Options
 All options are optional
-  * `active`: activate the middleware
-  * `pa11yOptions`: tell pa11y what to do, as the [pa11y documentation][2] describes
+  * `active`: activate the middleware (Boolean | default: false)
+  * `pa11yOptions`: tell pa11y what to do, find more in the [pa11y documentation/configuration][2] (Object | default: {})
 
 [1]: https://www.npmjs.com/package/pa11y
 [2]: https://www.npmjs.com/package/pa11y#configuration

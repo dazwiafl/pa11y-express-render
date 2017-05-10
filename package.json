@@ -1,6 +1,6 @@
 {
   "name": "pa11y-express-render",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "An express middleware to check the accessibility of your response with pa11y on render.",
   "main": "index.js",
   "scripts": {
