@@ -7,6 +7,7 @@ var _ = require('lodash')
 
 const _defaults = {
   active: false
+  , pa11yOptions: {}
 };
 
 module.exports = function(opts){
