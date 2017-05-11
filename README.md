@@ -1,5 +1,5 @@
 # pa11y-express-render
-An express middleware to check the accessibility of your response with [pa11y][1] on render.
+An express middleware to check the accessibility of your response with [pa11y][1] on render, by adding console-logs with the errors/warnings/notices of your response to your html response.
 
 ## How to install
 ```bash
